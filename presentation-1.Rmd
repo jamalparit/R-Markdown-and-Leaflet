@@ -7,7 +7,7 @@ output: ioslides_presentation
 ## Abstract:-
 
 This is an Assignment Project: R Markdown and Leaflet of Data-Products Course.Submission requires to Create a web page using R Markdown that features a map created with Leaflet.
-This submission present a list of top National university,the list sorted by 20 Top privite university & 13 Top Public school.The data collect from the [U.S. News]("https://www.usnews.com/best-colleges")
+This submission present a list of top National university,the list sorted by 20 Top privite university & 13 Top Public school.The data collect from the [U.S. News] ("https://www.usnews.com/best-colleges")
 
 ## Map Add:-  
 - Fancy icon for privite & public school  
