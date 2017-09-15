@@ -28,19 +28,19 @@ This submission present a list of top National university,the list sorted by 20 
 20) "Georgetown University Washington DC Public School"
 
 ### Top Public School:-
-1) "University of California Berkeley Berkeley CA (National university Public School Ranking-21)", 
-2) "University of California Los Angeles Los Angeles CA (National university Public School Ranking-21)",  
-3) "University of Virginia Charlottesville VA ( National university Public School Ranking-22)",
-4) "University of Michigan Ann Arbor Ann Arbor MI (National university Public School Ranking-28)",
-5) "University of North Carolina Chapel Hill Chapel Hill NC (National university Public School Ranking 30)",
-6) "College of William & Mary Williamsburg VA ( National university Public School Ranking 32)",
-7) "Georgia Institute of Technology Atlanta GA (National university Public School Ranking 34)",
-8) "University of California Santa Barbara Santa Barbara CA ( National university Public School Ranking 37)",
-9) "University of California Irvine CA (National university Public School Ranking 42)",
-10) "University of California San Diego La Jolla CA ( National university Public School Ranking 42)",
-11) "University of Florida Gainesville FL ( National university Public School Ranking 42)",
-12) "University of California Davis Davis CA ( National university Public School Ranking 46)",
-13)"University of Wisconsin Madison Madison WI (  National university Public School Ranking 46)"
+1) "University of California Berkeley Berkeley CA (National university Ranking-21)", 
+2) "University of California Los Angeles Los Angeles CA (National university Ranking-21)",  
+3) "University of Virginia Charlottesville VA ( National university Ranking-22)",
+4) "University of Michigan Ann Arbor Ann Arbor MI (National university Ranking-28)",
+5) "University of North Carolina Chapel Hill Chapel Hill NC (National universityl Ranking 30)",
+6) "College of William & Mary Williamsburg VA ( National university  Ranking 32)",
+7) "Georgia Institute of Technology Atlanta GA (National university  Ranking 34)",
+8) "University of California Santa Barbara Santa Barbara CA ( National university  Ranking 37)",
+9) "University of California Irvine CA (National university  Ranking 42)",
+10) "University of California San Diego La Jolla CA ( National university Ranking 42)",
+11) "University of Florida Gainesville FL ( National university Ranking 42)",
+12) "University of California Davis Davis CA ( National university Ranking 46)",
+13)"University of Wisconsin Madison Madison WI (  National university Ranking 46)"
  
 
 ## Map Add:-  
