@@ -39,7 +39,7 @@ This submission present a list of top National university,the list sorted by 20 
 9) "University of California Irvine CA (National university  Ranking 42)",
 10) "University of California San Diego La Jolla CA ( National university Ranking 42)",
 11) "University of Florida Gainesville FL ( National university Ranking 42)",
-12) "University of California Davis Davis CA ( National university Ranking 46)",
+12) "University of California Davis Davis CA ( National university Ranking 46)",  
 13)"University of Wisconsin Madison Madison WI (  National university Ranking 46)"
  
 
